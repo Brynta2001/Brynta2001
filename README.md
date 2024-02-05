@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">I'm Bryan Tapia, a Software Engineering Student and Full Stack Developer from Ecuador.<br><br>- 🔭 I’m working as Software Engineering Intern.<br>- 📚 I'm currently learning different things in order to increase my knowledge. Nowadays I am focused on learning different technologies like React, MongoDB, Redis, NextJS and good practices to improve my code not only when programming, but also in design and architecture.<br>- 🏍️ In my free time I like to ride my bike.</p>
+<p align="left">I'm Bryan Tapia, a Software Engineering Student, Software Developer and CCNA from Ecuador.<br><br>- 🔭 I’m working as Software Engineering Intern and as network solutions technician.<br>- 📚 I'm currently learning different things in order to increase my knowledge. Nowadays, I am focused on learning different technologies like React, MongoDB, Redis, NextJS and good practices to improve my code not only when programming, but also in design and architecture.<br>- 🏍️ In my free time I like to ride my bike.</p>
 
 ###
 
