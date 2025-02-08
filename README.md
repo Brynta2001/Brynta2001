@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="260" src="https://github.com/Brynta2001/Brynta2001/blob/main/Black%20Technology%20LinkedIn%20Banner.png"  />
+  <img height="auto" src="https://github.com/Brynta2001/Brynta2001/blob/main/Black%20Technology%20LinkedIn%20Banner.png"  />
 </div>
 
 ###
