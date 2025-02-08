@@ -64,10 +64,27 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Brynta2001&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Brynta2001&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Brynta2001&radius=10&theme=react&area=true&order=5&hide_border=false" height="348" alt="activity-graph graph"  />
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; align-items: center;">
+  <!-- Contenedor para las dos primeras imágenes -->
+  <div style="display: flex; justify-content: space-between; gap: 10px; width: 100%; max-width: 1012px;">
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=Brynta2001&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1" 
+      style="flex: 1 1 calc(50% - 5px); max-width: calc(50% - 5px); height: auto;" 
+      alt="stats graph" 
+    />
+    <img 
+      src="https://streak-stats.demolab.com?user=Brynta2001&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&order=3" 
+      style="flex: 1 1 calc(50% - 5px); max-width: calc(50% - 5px); height: auto;" 
+      alt="streak graph" 
+    />
+  </div>
+
+  <!-- Tercera imagen -->
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Brynta2001&radius=10&theme=react&area=true&order=5&hide_border=false" 
+    style="width: 100%; gap: 10px; max-width: 960px; height: auto;" 
+    alt="activity-graph graph" 
+  />
 </div>
 
 ###
